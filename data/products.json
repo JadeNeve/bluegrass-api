@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Wagyu Steak Medallions",
+    "category": "Beef",
+    "image": "https://example.com/images/wagyu_steak.jpg",
+    "price": 120.99
+  },
+  {
+    "id": 2,
+    "name": "Rump Steak",
+    "category": "Beef",
+    "image": "https://example.com/images/rump_steak.jpg",
+    "price": 150.99
+  },
+  {
+    "id": 3,
+    "name": "Beef Steak",
+    "category": "Beef",
+    "image": "https://example.com/images/beef_steak.jpg",
+    "price": 120.99
+  },
+  {
+    "id": 4,
+    "name": "Grilled Salmon",
+    "category": "Fish",
+    "image": "https://example.com/images/grilled_salmon.jpg",
+    "price": 110.99
+  },
+  {
+    "id": 5,
+    "name": "Whole Chicken",
+    "category": "Poultry",
+    "image": "https://example.com/images/whole_chicken.jpg",
+    "price": 130.99
+  },
+  {
+    "id": 6,
+    "name": "Pork Ribs",
+    "category": "Pork",
+    "image": "https://example.com/images/pork_ribs.jpg",
+    "price": 140.99
+  },
+  {
+    "id": 7,
+    "name": "BBQ Chicken Wings",
+    "category": "Poultry",
+    "image": "https://example.com/images/bbq_chicken_wings.jpg",
+    "price": 90.99
+  },
+  {
+    "id": 8,
+    "name": "Grilled Tuna Steak",
+    "category": "Fish",
+    "image": "https://example.com/images/grilled_tuna_steak.jpg",
+    "price": 135.99
+  },
+  {
+    "id": 9,
+    "name": "T-Bone Steak",
+    "category": "Beef",
+    "image": "https://example.com/images/t_bone_steak.jpg",
+    "price": 160.99
+  },
+  {
+    "id": 10,
+    "name": "Crispy Pork Belly",
+    "category": "Pork",
+    "image": "https://example.com/images/crispy_pork_belly.jpg",
+    "price": 145.99
+  }
+]
